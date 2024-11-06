@@ -1,0 +1,3 @@
+/Users/sankalpdwivedi/Desktop/CMAKE/CMakeFiles/hello_world.dir
+/Users/sankalpdwivedi/Desktop/CMAKE/CMakeFiles/edit_cache.dir
+/Users/sankalpdwivedi/Desktop/CMAKE/CMakeFiles/rebuild_cache.dir
